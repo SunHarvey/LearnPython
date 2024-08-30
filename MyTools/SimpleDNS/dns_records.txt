@@ -1,0 +1,5 @@
+www.example.com A 192.168.1.1
+www.abc.com A 192.168.2.2
+abc.com CNAME www.123.com
+www.abcd.com CNAME www.1234.com
+www.123.com A 1.1.1.1
